@@ -22,7 +22,7 @@ def start():
 
     ball2 = turtle.Turtle()
     ball2.speed(0)
-    ball2.shape("square")
+    ball2.shape("circle")
     ball2.color("blue")
     #change this variable for lines vs no lines
     ball2.penup()
@@ -30,7 +30,7 @@ def start():
 
     ball3 = turtle.Turtle()
     ball3.speed(0)
-    ball3.shape("triangle")
+    ball3.shape("circle")
     ball3.color("pink")
     #change this variable for lines vs no lines
     ball3.penup()
@@ -38,7 +38,7 @@ def start():
 
     ball4 = turtle.Turtle()
     ball4.speed(0)
-    ball4.shape("arrow")
+    ball4.shape("circle")
     ball4.color("green")
     #change this variable for lines vs no lines
     ball4.penup()
